@@ -11,6 +11,8 @@ Gherkin serves multiple purposes:
 Unambiguous executable specification
 Automated testing using Cucumber
 Document how the system actually behaves
+
+
 ![image](https://user-images.githubusercontent.com/13984333/181092207-82b492f7-2f24-4244-a388-e7486a05fccb.png)
 
 ### What are Step Definitions?
